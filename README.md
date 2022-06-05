@@ -1,4 +1,3 @@
-# SMART-DNS-Proxy
-apt install dnsmasq
-apt install sniproxy
+# SMART-DNS-Proxy Install
 
+apt-get install dnsmasq &&  apt-get install sniproxy
